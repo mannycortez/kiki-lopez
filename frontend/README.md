@@ -1,0 +1,1 @@
+To start use 'npm run dev' in the root. Built with MERN stack.
