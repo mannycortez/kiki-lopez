@@ -32,13 +32,14 @@ const HomeScreen = ({ match }) => {
         Go Back
         </Link>}
         <br />
-          <h1 style={{'textAlign': 'center'}}>Welcome to My Shop</h1>
-          <p style={{'textAlign': 'center'}}>I'm an expressionist painter from Atlanta, GA currently living in San Francisco, CA. 
-          I've shown in several galleries over the years including Muse and Co Fine Art Gallery (Roswell, GA), Carre D'Artiste (Atlanta, GA), 
-          Art Gallery Seven (Atlanta, GA), Lagerquist Gallery (Atlanta, GA), and Ember Gallery (Chattanooga, TN)
-          These are my original paintings and prints available for sale. Thank you for your support.</p>
+          <h1 style={{'textAlign': 'center'}}>About Kiki Lopez</h1>
+          <p style={{'textAlign': 'center'}}>Pabst live-edge prism cardigan hoodie ramps glossier farm-to-table. 
+          Godard enamel pin vegan freegan fixie, franzen iPhone intelligentsia unicorn banjo ethical try-hard +1 lomo four dollar toast. 
+          Kinfolk meggings freegan, polaroid brooklyn tote bag air plant microdosing neutra chambray gastropub before they sold out gochujang snackwave truffaut. 
+          Chia kitsch cloud bread swag cold-pressed, keytar pug. Humblebrag marfa cliche gochujang twee. 
+          Helvetica sustainable echo park copper mug.</p>
           <br />
-          <p style={{'textAlign': 'center'}}>-Manny</p>
+          <p style={{'textAlign': 'center'}}>-Kiki</p>
             {loading ? (
               <Loader />
             ) : error ? (

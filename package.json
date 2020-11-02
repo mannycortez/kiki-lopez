@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mannycortez/mcs-store.git"
+    "url": "git+https://github.com/mannycortez/kiki-lopez.git"
   },
   "author": "Manny Cortez Studios LLC",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mannycortez/mcs-store/issues"
+    "url": "https://github.com/mannycortez/kiki-lopez/issues"
   },
-  "homepage": "https://github.com/mannycortez/mcs-store#readme",
+  "homepage": "https://github.com/mannycortez/kiki-lopez#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.23.0",
